@@ -56,10 +56,59 @@ li {
 
 .ig-list-name {
     width: 100px;
-    height 100px;
+    height: 100px;
 }
 
 .ig-list-description {
     display: none;
     width: 100px;
+}
+
+.ig-type-herbs {
+    border: 2px solid #009933;
+    border-radius: 100%;
+}
+
+.ig-type-dopamine-modulators {
+    border: 2px solid #0066FF;
+    border-radius: 100%;
+}
+
+.ig-type-nutrient {
+    border: 2px solid #FF9933;
+    border-radius: 100%;
+}
+
+.ig-type-wakefulness {
+    border: 2px solid #FFFF66;
+    border-radius: 100%;
+}
+
+.ig-type-racetams {
+    border: 2px solid #CC0066;
+    border-radius: 100%;
+}
+
+.ig-type-inhibitors {
+    border: 2px solid #6600CC;
+    border-radius: 100%;
+}
+.ig-type-peptides {
+    border: 2px solid #00CC99;
+    border-radius: 100%;
+}
+
+.ig-type-ampakines {
+    border: 2px solid #FF99FF;
+    border-radius: 100%;
+}
+
+.ig-type-other {
+    border: 2px solid #3366FF;
+    border-radius: 100%;
+}
+
+.ig-type-blends {
+    border: 2px solid #0099CC;
+    border-radius: 100%;
 }
