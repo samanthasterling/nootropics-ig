@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+h1,
+h2 {
+    margin-left: 40px;
+}
+
+.ig-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.ig-header-container {
+    background-color: #ccc;
+    height: 30%;
+    overflow: scroll;
+}
+
+.ig-info-container {
+    height: 70%;
+}
+
+.ig-ingredients-container {
+    background-color: #ddd;
+    height: 100%;
+    overflow: scroll;
+}
+
+ul {
+    list-style: none;
+}
+
+.ig-list-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.ig-list-circle:hover {
+    cursor: pointer;
+}
+
+li {
+    margin-bottom: 40px;
+    margin-right: 40px;
+    float: left;
+    text-align: center;
+    width: 100px;
+}
+
+.ig-list-name {
+    width: 100px;
+    height 100px;
+}
+
+.ig-list-description {
+    display: none;
+    width: 100px;
+}
